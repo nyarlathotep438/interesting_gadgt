@@ -1,2 +1,2 @@
 # private code database
-#Just some boring things, please ignore them.
+Just some boring things, please ignore them.
