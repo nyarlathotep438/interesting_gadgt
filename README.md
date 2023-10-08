@@ -1,2 +1,3 @@
 # private code database
-Just some non-sense things, please ignore them.
+When I create some interesting things, they will be put here.
+Once something are useful, take them freely.
